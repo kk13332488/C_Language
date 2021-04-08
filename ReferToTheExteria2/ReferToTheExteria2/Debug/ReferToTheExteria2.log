@@ -1,0 +1,9 @@
+﻿  header1.h
+C:\Users\고성호\Desktop\고성호\학교\개인공부\C_Language\ReferToTheExteria2\ReferToTheExteria2\header1.h(1,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\고성호\Desktop\고성호\학교\개인공부\C_Language\ReferToTheExteria2\ReferToTheExteria2\header1.h(3,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  header2.h
+C:\Users\고성호\Desktop\고성호\학교\개인공부\C_Language\ReferToTheExteria2\ReferToTheExteria2\header2.h(1,2): error C2059: 구문 오류: 'return'
+C:\Users\고성호\Desktop\고성호\학교\개인공부\C_Language\ReferToTheExteria2\ReferToTheExteria2\header2.h(2,1): error C2059: 구문 오류: '}'
+C:\Users\고성호\Desktop\고성호\학교\개인공부\C_Language\ReferToTheExteria2\ReferToTheExteria2\header2.h(2,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
